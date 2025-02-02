@@ -6,26 +6,11 @@
 - **Pronouns:** He  
 - **M.Tech at IIT Kharagpur**  
 - **Mechanical Design Engineer | AI & Data Science Enthusiast**  
-- **Specializing AI ML, Machine Design,R isk Management & Computational Analysis**  
+- **Specializing AI ML, Machine Design,Risk Management & Computational Analysis**  
 
 🌐 **Website:** [nishant-pandey-iitkgp.github.io](https://nishant-pandey-iitkgp.github.io)  
 📩 **Contact:** [LinkedIn](https://www.linkedin.com/in/nishant-pandey-iitkgp) | [GitHub](https://github.com/Nishant-Pandey-iitkgp)  
 
----
-
-## 📊 GitHub Stats
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Nishant-Pandey-iitkgp&show_icons=true&theme=tokyonight" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nishant-Pandey-iitkgp&theme=tokyonight" />
-    </td>
-  </tr>
-</table>
-
----
 
 ## 🚀 Skills
 
@@ -56,19 +41,19 @@
 ---
 
 ## 📜 Blog Posts & Publications
-📌 **[Performance Evaluation of Water-Diesel Emulsion in CI Engines](https://nishant-pandey-iitkgp.github.io/)**  
-📌 **[Analysis of Universal Couplings in Agricultural Machinery](https://nishant-pandey-iitkgp.github.io/)**  
-📌 **[AI-based Crop Monitoring Systems](https://nishant-pandey-iitkgp.github.io/)**  
+📌 **[Performance Evaluation of Water-Diesel Emulsion in CI Engines Using AI ](https://nishant-pandey-iitkgp.github.io/)**  
+📌 **[Analysis of Universal Couplings ](https://nishant-pandey-iitkgp.github.io/)**   
 
 📊 **Published Posts Timeline**
-![Published Posts](https://github.com/Nishant-Pandey-iitkgp/Nishant-Pandey-iitkgp/blob/output/github-contribution-grid-snake.svg)
+![Published Posts]((https://github.com/Nishant-Pandey-iitkgp/Nishant-Pandey-iitkgp/blob/output/github-contribution-grid-snake.svg))
 
 ---
 
 ## 🔥 Achievements & Recognitions
 🎖 **Selected Researcher for Virtual Labs @ IIT Kanpur**  
 🎖 **Top Contributor in Farm Equipment Design & System Optimization**  
-🎖 **Certified AI & ML Enthusiast**  
+🎖 **Certified AI & ML Enthusiast** 
+🎖 **Patent Granted on design of Solar based agricultural Machinaery** 
 
 ---
 
