@@ -1,79 +1,91 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
-<a href="[https://www.instagram.com/nishantpandey0802/?next=%2F"]>
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
+# Nishant Pandey
 
+![Header Image](https://capsule-render.vercel.app/api?text=Welcome%20to%20My%20GitHub%20Profile!&type=wave&color=gradient&height=150)
 
+## 👤 About Me
+- **Pronouns:** He  
+- **M.Tech at IIT Kharagpur**  
+- **Mechanical Design Engineer | AI & Data Science Enthusiast**  
+- **Specializing AI ML, Machine Design,R isk Management & Computational Analysis**  
 
+🌐 **Website:** [nishant-pandey-iitkgp.github.io](https://nishant-pandey-iitkgp.github.io)  
+📩 **Contact:** [LinkedIn](https://www.linkedin.com/in/nishant-pandey-iitkgp) | [GitHub](https://github.com/Nishant-Pandey-iitkgp)  
 
+---
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+## 📊 GitHub Stats
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Nishant-Pandey-iitkgp&show_icons=true&theme=tokyonight" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nishant-Pandey-iitkgp&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🚀 Skills
+
+### **I Have**
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=python,matlab,c,cpp,solidworks,autocad,github,vscode" height="40"/>
 </p>
 
-name: Nishant Pandey 
-located_in: Kharagpur, West Bengal 
-current_Profile: M.Tech Student 
-education:
-  [
-    "Self-Taught Developer and Designer",
-    "Master's From IIT Kharagpur ",
-    "Bachelor's in Mechanical Engineering",
-  ]
+### **I'm Learning**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=r,sql,tensorflow,pytorch,docker,kubernetes" height="40"/>
+</p>
 
+### **In My Knowledge Base**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,bash,git" height="40"/>
+</p>
 
-fields_of_interests:
-  [
-    "Web Development",
-    "Data Science",
-    "Machine Learning",
-    "A"DevOps",
-    "Precession Agriculture Machinery Using AI ML  and Robotics ",
-    ,"Mechanical System Design"
-  ]
-technical_background:
-  [
-    "Full Stack Developer"
-    "DevOps Solutions Architect",
-    "Intern - IIT KANPUR Virtual Labs Design ",
-    "Intern - North Eastern Railways Gorakhpur",
-    "Intern - REC BANDA ",
-  ]
-  
-currently_learning: ["Docker, Kubernetes, and React Native"]
-202 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
-hobbies: ["Poetry", "Cinema",  "Chess", "Comedy"]
+---
 
-<!--
-**NishantPandey20240/NishantPandey20240** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎯 IDEs / Tools I Use
+<p align="left">
+  <img src="https://img.shields.io/badge/Editor-VS%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Editor-RStudio-blue?style=for-the-badge&logo=rstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tool-Inkscape-green?style=for-the-badge&logo=inkscape&logoColor=white"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-# Welcome to My GitHub Profile! ❄️
+## 📜 Blog Posts & Publications
+📌 **[Performance Evaluation of Water-Diesel Emulsion in CI Engines](https://nishant-pandey-iitkgp.github.io/)**  
+📌 **[Analysis of Universal Couplings in Agricultural Machinery](https://nishant-pandey-iitkgp.github.io/)**  
+📌 **[AI-based Crop Monitoring Systems](https://nishant-pandey-iitkgp.github.io/)**  
 
-Hi there! I'm [Your Name], a passionate developer who loves to work on [Python, React JS, AI ML ,System Design etc.].
+📊 **Published Posts Timeline**
+![Published Posts](https://github.com/Nishant-Pandey-iitkgp/Nishant-Pandey-iitkgp/blob/output/github-contribution-grid-snake.svg)
 
-## 🔧 Technologies & Tools
+---
 
-- **Languages:** Python, JavaScript, Java
-- **Tools:** Git, Docker, VS Code
-- **Frameworks:** React, Node.js
+## 🔥 Achievements & Recognitions
+🎖 **Selected Researcher for Virtual Labs @ IIT Kanpur**  
+🎖 **Top Contributor in Farm Equipment Design & System Optimization**  
+🎖 **Certified AI & ML Enthusiast**  
 
+---
 
+## 🏁 Contribution Activity
+![GitHub Contribution Virtual lab](https://github.com/Nishant-Pandey-iitkgp/Nishant-Pandey-iitkgp/blob/output/github-contribution-grid-snake.svg)
 
-## 📫 How to Reach Me
+---
 
-- **Email:** nishpand01@gmail.com
-- **LinkedIn:** [Nishant Pandey IIT KGP]([link-to-linkedin](https://www.linkedin.com/in/nishant-pandeyiitkgp/))
+---
 
+## 💬 Let's Connect!
+If you're interested in AI, farm automation, risk management, or data science, feel free to reach out!  
 
-## ❄️ Fun Fact
+📧 **Email:** [nishantpandey@email.com](mailto:nishantpandey@email.com)  
+🔗 **LinkedIn:** [Nishant-Pandey](https://www.linkedin.com/in/nishant-pandey-iitkgp)  
+💻 **GitHub:** [Nishant-Pandey-iitkgp](https://github.com/Nishant-Pandey-iitkgp)  
 
-I love winter and snowflakes! ❄️
+---
 
-![Snowflake](https://media.giphy.com/media/3o7TKsQ8gqVr5Ykq8w/giphy.gif)
+![Footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient)
